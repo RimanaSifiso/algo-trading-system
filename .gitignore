@@ -1,1 +1,4 @@
 /algo-trading-venv
+/constants.py
+/__pycache__
+/data/history
